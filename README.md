@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and neural networks
 - 🌱 I’m currently learning computer science in college
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me pone ate 07723100908
+- 📫 How to reach me phone ate 07723100908
 
 <!---
 abdulayo2987/abdulayo2987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
